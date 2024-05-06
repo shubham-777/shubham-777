@@ -1,4 +1,4 @@
-# Shubham Ahinave :sunglasses:	
+# Shubham Ahinave 😎	
 #### *Software Developer | Backend Specialist | AI Enthusiast* :rocket:
 
 **[LinkedIn](https://www.linkedin.com/in/shubham-ahinave/)** | **[Download Resume](https://drive.google.com/file/d/1F5CmrD_5-X0q_TQVM5DZQwbweVDHcinp/view?usp=sharing)** | **ahinaveshub777@gmail.com**
