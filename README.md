@@ -1,12 +1,13 @@
 # Shubham Ahinave :sunglasses:	
-*Software Developer | Backend Specialist | AI Enthusiast* :rocket:
+#### *Software Developer | Backend Specialist | AI Enthusiast* :rocket:
 
-[LinkedIn](https://www.linkedin.com/in/shubham-ahinave/) | [Download Resume](https://drive.google.com/file/d/1F5CmrD_5-X0q_TQVM5DZQwbweVDHcinp/view?usp=sharing) | ahinaveshub777@gmail.com
+**[LinkedIn](https://www.linkedin.com/in/shubham-ahinave/)** | **[Download Resume](https://drive.google.com/file/d/1F5CmrD_5-X0q_TQVM5DZQwbweVDHcinp/view?usp=sharing)** | **ahinaveshub777@gmail.com**
 
-*Software Developer* with expertise in **Backend Development and optimization**, **Flask**, **Django**, and **frontend development**. Experienced in **AI/Ml Implementation** using **TensorFlow**. **Worked** for [Bombay Softwares](https://www.bombaysoftwares.com/) and [Cere Labs Pvt. Ltd.](https://www.cerelabs.com/) gaining valuable experience in **software development** and **AI Implementation**.
+*Software Developer* with expertise in **Backend Development and optimization**, **Flask**, **Django**, and **frontend development**. Experienced in **AI/Ml Implementation** using **TensorFlow**. **Worked** for **[Bombay Softwares](https://www.bombaysoftwares.com/)** and **[Cere Labs Pvt. Ltd.](https://www.cerelabs.com/)** gaining valuable experience in **software development** and **AI Implementation**.
 
-**Technical Skills:** Python, Java, Flask, Django, TensorFlow, Django, Spring MVC, RabbitMQ, Redis, Pandas, pytest, Docker, PostgreSQL/MySQL, AWS, Git.
+#### **Technical Skills:** 
+Python, Java, Flask, Django, TensorFlow, Django, Spring MVC, RabbitMQ, Redis, Pandas, pytest, Docker, PostgreSQL/MySQL, AWS, Git.
 
-**Education:** 
+#### **Education:** 
 - BE in Computer Engineering, *Vidyalankar Institute of Technology* (CGPA: 7.9)
 - Diploma in Computer Engineering, *Balasaheb Mhatre Polytechnic* (79.06%)
