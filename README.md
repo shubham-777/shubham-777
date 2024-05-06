@@ -1,5 +1,5 @@
 # Shubham Ahinave 😎	
-#### *Software Developer | Backend Specialist | AI Enthusiast* :rocket:
+#### *Software Developer | Backend Specialist | AI Enthusiast* 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-777&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-777" /> </p>
 
