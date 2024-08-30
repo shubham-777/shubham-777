@@ -5,7 +5,8 @@
 
 **[LinkedIn](https://www.linkedin.com/in/shubham-ahinave/)** | **[Download Resume](https://drive.google.com/file/d/1F5CmrD_5-X0q_TQVM5DZQwbweVDHcinp/view?usp=sharing)** | **ahinaveshub777@gmail.com**
 
-*Software Developer* with expertise in **Backend Development and optimization**, **Flask**, **Django**, and **frontend development**. Experienced in **AI/Ml Implementation** using **TensorFlow**. **Worked** for **[Bombay Softwares](https://www.bombaysoftwares.com/)** and **[Cere Labs Pvt. Ltd.](https://www.cerelabs.com/)** gaining valuable experience in **software development** and **AI Implementation**.
+🚀 **Passionate Software Engineer** with a focus on **Backend Development** and **AI Implementation**. With experience at [**Bombay Software**](https://www.bombaysoftwares.com/) and [**Cere Labs Pvt. Ltd.**](https://www.cerelabs.com/), I excel in building **scalable systems** using **Flask**, **Django**, and **TensorFlow**. 💻 Proficient in **Python**, **Core Java**, and advanced **image processing techniques**, I hold a **Bachelor’s degree** in **Computer Engineering** from **University of Mumbai**. 📚 Always eager to solve **complex problems** and explore new **technologies**, I aim to drive **innovation** and **efficiency** in the software industry.
+
 
 #### **Technical Skills:** 
 Python, Java, Flask, Django, TensorFlow, Django, Spring MVC, RabbitMQ, Redis, Pandas, pytest, Docker, PostgreSQL/MySQL, AWS, Git.
