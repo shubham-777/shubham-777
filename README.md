@@ -14,3 +14,8 @@ Python, Java, Flask, Django, TensorFlow, Django, Spring MVC, RabbitMQ, Redis, Pa
 #### **Education:** 
 - BE in Computer Engineering, *Vidyalankar Institute of Technology* (CGPA: 7.9)
 - Diploma in Computer Engineering, *Balasaheb Mhatre Polytechnic* (79.06%)
+
+---
+
+💬 **Feel free to reach out:**  
+I'm open to collaboration and new opportunities. Let's connect on [LinkedIn](https://www.linkedin.com/in/shubham-ahinave/) or drop me an email at ahinaveshub777@gmail.com!
